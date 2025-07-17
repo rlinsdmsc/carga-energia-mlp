@@ -57,6 +57,8 @@ Prever o valor da carga energética mensal futura com base no **ano e mês**, ut
 
 📊 Resultado Esperado
 
+   <img width="946" height="465" alt="image" src="https://github.com/user-attachments/assets/d6ed79a6-028c-4bb6-b764-ca80b18a6e55" />
+
     Gráfico comparativo entre a carga real e a previsão feita pela rede neural, além da previsão de carga para o próximo mês, com base no histórico de dados.
 
     Exemplo de saída: Previsão de carga para agosto/2025: 70245.32 MW médios
