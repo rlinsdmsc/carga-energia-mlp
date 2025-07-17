@@ -24,7 +24,7 @@ carga-energia-mlp/
 ## 📁 Fonte dos Dados
 
 Dados públicos obtidos do Operador Nacional do Sistema Elétrico (ONS):  
-🔗 https://www.ons.org.br/paginas/energia-agora/dados-gerais
+🔗 [https://www.ons.org.br/paginas/energia-agora/dados-gerais](https://dados.ons.org.br/dataset/carga-mensal)
 
 Formato:
 - `id_subsistema`: N, NE, S, SE
